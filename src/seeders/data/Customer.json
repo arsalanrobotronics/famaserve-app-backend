@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "67446abf9c1a8c0012a20001",
+    "phoneNumber": "03333078583",
+    "fullName": "Arsalan Ahmad",
+    "email": "arsalan@gmail.com",
+    "password": "Robo@123",
+    "roleId": "67446abf9c1a8c0012a10003",
+    "status": "active"
+  },
+  {
+    "_id": "67446abf9c1a8c0012a20002",
+    "phoneNumber": "03333078584",
+    "fullName": "Ifham Ahmed",
+    "email": "ifham@gmail.com",
+    "password": "Robo@123",
+    "roleId": "67446abf9c1a8c0012a10002",
+    "status": "active"
+  }
+]

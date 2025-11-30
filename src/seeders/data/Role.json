@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "67446abf9c1a8c0012a10001",
+    "title": "Admin",
+    "associatedUsers": 1,
+    "permissions": [
+      "view-dashboard",
+      "view-customers",
+      "manage-customers",
+      "view-subscriptions",
+      "manage-subscriptions",
+      "view-projects",
+      "manage-projects",
+      "view-reviews",
+      "manage-reviews"
+    ],
+    "status": "active",
+    "roleTypeId": "67446abf9c1a8c0012a1abcd"
+  },
+  {
+    "_id": "67446abf9c1a8c0012a10002",
+    "title": "Customer",
+    "associatedUsers": 0,
+    "permissions": [
+      "view-dashboard",
+      "system-logs"
+    ],
+    "status": "active",
+    "roleTypeId": "67446abf9c1a8c0012a1abce"
+  },
+  {
+    "_id": "67446abf9c1a8c0012a10003",
+    "title": "Provider",
+    "associatedUsers": 0,
+    "permissions": [
+      "view-dashboard",
+      "system-logs"
+    ],
+    "status": "active",
+    "roleTypeId": "67446abf9c1a8c0012a1abce"
+  }
+]
